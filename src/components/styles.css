@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(252, 237, 169);
+    text-align: center;
+    font-family:Helvetica,  Arial,  sans-serif;
+    padding: 20px;
+}
+a{
+    color: rgb(116, 43, 53);
+
+}
+h2{
+    background: lightgrey;
+    height: 70px;
+    font-size: 50px;
+    padding: 5px;
+    color:  rgb(155, 91, 101);
+}
